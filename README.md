@@ -2,4 +2,4 @@
 
 自作掲示板サイトです。
 
-![エビフライトライアングル](./sample.png "サンプル")
+![サンプル](./resources/assets/img/sample.png "サンプル")
